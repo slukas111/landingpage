@@ -1,0 +1,29 @@
+node_modules
+.env
+*.pyc
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+# mkdocs documentation
+/site
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+# Translations
+*.mo
+*.pot
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
